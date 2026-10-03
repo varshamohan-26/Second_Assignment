@@ -81,3 +81,5 @@ The final cleaned dataset contains:
 ## Learning Outcome
 
 Through this assignment, I learned how to use **Power Query** for data cleaning, missing-value handling, data standardization, duplicate removal, splitting and merging columns, and data type conversion. I also learned how to use **Excel Conditional Formatting** to visually represent and analyze cleaned data.
+## Solution
+<img width="832" height="613" alt="Screenshot 2026-10-03 235208" src="https://github.com/user-attachments/assets/4d775477-aab9-4388-be7c-e58ad98aa0a5" />
